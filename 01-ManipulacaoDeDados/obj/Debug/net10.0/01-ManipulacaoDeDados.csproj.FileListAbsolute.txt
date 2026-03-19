@@ -1,0 +1,14 @@
+/home/arthur/Downloads/CSharp-Fundamentals/01-ManipulacaoDeDados/bin/Debug/net10.0/01-ManipulacaoDeDados
+/home/arthur/Downloads/CSharp-Fundamentals/01-ManipulacaoDeDados/bin/Debug/net10.0/01-ManipulacaoDeDados.deps.json
+/home/arthur/Downloads/CSharp-Fundamentals/01-ManipulacaoDeDados/bin/Debug/net10.0/01-ManipulacaoDeDados.runtimeconfig.json
+/home/arthur/Downloads/CSharp-Fundamentals/01-ManipulacaoDeDados/bin/Debug/net10.0/01-ManipulacaoDeDados.dll
+/home/arthur/Downloads/CSharp-Fundamentals/01-ManipulacaoDeDados/bin/Debug/net10.0/01-ManipulacaoDeDados.pdb
+/home/arthur/Downloads/CSharp-Fundamentals/01-ManipulacaoDeDados/obj/Debug/net10.0/01-ManipulacaoDeDados.GeneratedMSBuildEditorConfig.editorconfig
+/home/arthur/Downloads/CSharp-Fundamentals/01-ManipulacaoDeDados/obj/Debug/net10.0/01-ManipulacaoDeDados.AssemblyInfoInputs.cache
+/home/arthur/Downloads/CSharp-Fundamentals/01-ManipulacaoDeDados/obj/Debug/net10.0/01-ManipulacaoDeDados.AssemblyInfo.cs
+/home/arthur/Downloads/CSharp-Fundamentals/01-ManipulacaoDeDados/obj/Debug/net10.0/01-ManipulacaoDeDados.csproj.CoreCompileInputs.cache
+/home/arthur/Downloads/CSharp-Fundamentals/01-ManipulacaoDeDados/obj/Debug/net10.0/01-ManipulacaoDeDados.dll
+/home/arthur/Downloads/CSharp-Fundamentals/01-ManipulacaoDeDados/obj/Debug/net10.0/refint/01-ManipulacaoDeDados.dll
+/home/arthur/Downloads/CSharp-Fundamentals/01-ManipulacaoDeDados/obj/Debug/net10.0/01-ManipulacaoDeDados.pdb
+/home/arthur/Downloads/CSharp-Fundamentals/01-ManipulacaoDeDados/obj/Debug/net10.0/01-ManipulacaoDeDados.genruntimeconfig.cache
+/home/arthur/Downloads/CSharp-Fundamentals/01-ManipulacaoDeDados/obj/Debug/net10.0/ref/01-ManipulacaoDeDados.dll
