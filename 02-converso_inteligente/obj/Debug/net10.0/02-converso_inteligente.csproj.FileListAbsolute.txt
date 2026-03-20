@@ -1,0 +1,15 @@
+/home/arthur/CSharp-Fundamentals/02-converso_inteligente/bin/Debug/net10.0/02-converso_inteligente
+/home/arthur/CSharp-Fundamentals/02-converso_inteligente/bin/Debug/net10.0/02-converso_inteligente.deps.json
+/home/arthur/CSharp-Fundamentals/02-converso_inteligente/bin/Debug/net10.0/02-converso_inteligente.runtimeconfig.json
+/home/arthur/CSharp-Fundamentals/02-converso_inteligente/bin/Debug/net10.0/02-converso_inteligente.dll
+/home/arthur/CSharp-Fundamentals/02-converso_inteligente/bin/Debug/net10.0/02-converso_inteligente.pdb
+/home/arthur/CSharp-Fundamentals/02-converso_inteligente/obj/Debug/net10.0/02-converso_inteligente.GeneratedMSBuildEditorConfig.editorconfig
+/home/arthur/CSharp-Fundamentals/02-converso_inteligente/obj/Debug/net10.0/02-converso_inteligente.AssemblyInfoInputs.cache
+/home/arthur/CSharp-Fundamentals/02-converso_inteligente/obj/Debug/net10.0/02-converso_inteligente.AssemblyInfo.cs
+/home/arthur/CSharp-Fundamentals/02-converso_inteligente/obj/Debug/net10.0/02-converso_inteligente.csproj.CoreCompileInputs.cache
+/home/arthur/CSharp-Fundamentals/02-converso_inteligente/obj/Debug/net10.0/02-converso_inteligente.sourcelink.json
+/home/arthur/CSharp-Fundamentals/02-converso_inteligente/obj/Debug/net10.0/02-converso_inteligente.dll
+/home/arthur/CSharp-Fundamentals/02-converso_inteligente/obj/Debug/net10.0/refint/02-converso_inteligente.dll
+/home/arthur/CSharp-Fundamentals/02-converso_inteligente/obj/Debug/net10.0/02-converso_inteligente.pdb
+/home/arthur/CSharp-Fundamentals/02-converso_inteligente/obj/Debug/net10.0/02-converso_inteligente.genruntimeconfig.cache
+/home/arthur/CSharp-Fundamentals/02-converso_inteligente/obj/Debug/net10.0/ref/02-converso_inteligente.dll
