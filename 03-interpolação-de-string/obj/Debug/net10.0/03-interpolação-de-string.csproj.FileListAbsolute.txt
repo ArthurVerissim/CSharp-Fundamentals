@@ -1,0 +1,15 @@
+/home/arthur/CSharp-Fundamentals/03-interpolação-de-string/bin/Debug/net10.0/03-interpolação-de-string
+/home/arthur/CSharp-Fundamentals/03-interpolação-de-string/bin/Debug/net10.0/03-interpolação-de-string.deps.json
+/home/arthur/CSharp-Fundamentals/03-interpolação-de-string/bin/Debug/net10.0/03-interpolação-de-string.runtimeconfig.json
+/home/arthur/CSharp-Fundamentals/03-interpolação-de-string/bin/Debug/net10.0/03-interpolação-de-string.dll
+/home/arthur/CSharp-Fundamentals/03-interpolação-de-string/bin/Debug/net10.0/03-interpolação-de-string.pdb
+/home/arthur/CSharp-Fundamentals/03-interpolação-de-string/obj/Debug/net10.0/03-interpolação-de-string.GeneratedMSBuildEditorConfig.editorconfig
+/home/arthur/CSharp-Fundamentals/03-interpolação-de-string/obj/Debug/net10.0/03-interpolação-de-string.AssemblyInfoInputs.cache
+/home/arthur/CSharp-Fundamentals/03-interpolação-de-string/obj/Debug/net10.0/03-interpolação-de-string.AssemblyInfo.cs
+/home/arthur/CSharp-Fundamentals/03-interpolação-de-string/obj/Debug/net10.0/03-interpolação-de-string.csproj.CoreCompileInputs.cache
+/home/arthur/CSharp-Fundamentals/03-interpolação-de-string/obj/Debug/net10.0/03-interpolação-de-string.sourcelink.json
+/home/arthur/CSharp-Fundamentals/03-interpolação-de-string/obj/Debug/net10.0/03-interpolação-de-string.dll
+/home/arthur/CSharp-Fundamentals/03-interpolação-de-string/obj/Debug/net10.0/refint/03-interpolação-de-string.dll
+/home/arthur/CSharp-Fundamentals/03-interpolação-de-string/obj/Debug/net10.0/03-interpolação-de-string.pdb
+/home/arthur/CSharp-Fundamentals/03-interpolação-de-string/obj/Debug/net10.0/03-interpolação-de-string.genruntimeconfig.cache
+/home/arthur/CSharp-Fundamentals/03-interpolação-de-string/obj/Debug/net10.0/ref/03-interpolação-de-string.dll
