@@ -12,10 +12,10 @@ namespace MadLibs
              */
 
             // 2. Informa ao usuário que o programa começou
-            Console.WriteLine("--- O Jogo Mad Libs Começou! ---");
+            Console.WriteLine("--- Começou! ---");
 
             // 3. Define o título da história
-            string titulo = "Uma Aventura Inesperada";
+            string titulo = "Historia Inesperada";
             Console.WriteLine($"Título: {titulo}\n");
 
             // 5. Solicita o nome do personagem principal
