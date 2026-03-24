@@ -2,7 +2,7 @@
 
 Um script simples de console pra testar estruturas de decisão e operadores lógicos. 
 
-## Tech
+## Tecnologia usada
 * C#
 
 ## O que o código faz

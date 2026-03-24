@@ -14,7 +14,7 @@ A lógica principal do projeto consiste em:
 
 ## 🛠️ Tecnologias e Conceitos Aplicados
 
-* **Manipulação de Strings:** Uso de `$""` (Interpolação) para manter o código limpo e evitar concatenações complexas.
+* **Manipulação de Strings:** Uso de `$""` (Interpolação) para manter o código limpo e evitar varias concatenações .
 * **Interação a Partir do Console:** Recebe a entrada do usuário e utiliza a saída para completar as informações, capturando dados com `Console.ReadLine()` e exibindo com `Console.Write()`.
 * **Ecossistema .NET:** Utilização da plataforma .NET para rodar a aplicação no terminal.
 
